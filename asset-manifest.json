@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.52811682.chunk.css",
+    "main.js": "/portfolio/static/js/main.bd7c098e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bd7c098e.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9bacc032.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9bacc032.js.map",
+    "static/js/2.78d0bf94.chunk.js": "/portfolio/static/js/2.78d0bf94.chunk.js",
+    "static/js/2.78d0bf94.chunk.js.map": "/portfolio/static/js/2.78d0bf94.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c9023231bebffc9fcaa7b09ce6e75c54.js": "/portfolio/precache-manifest.c9023231bebffc9fcaa7b09ce6e75c54.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.52811682.chunk.css.map": "/portfolio/static/css/main.52811682.chunk.css.map",
+    "static/js/2.78d0bf94.chunk.js.LICENSE.txt": "/portfolio/static/js/2.78d0bf94.chunk.js.LICENSE.txt",
+    "static/media/100.jpg": "/portfolio/static/media/100.53c38366.jpg",
+    "static/media/100.png": "/portfolio/static/media/100.8f1df092.png",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/buld.jpg": "/portfolio/static/media/buld.a1051a22.jpg",
+    "static/media/codeInLogo.png": "/portfolio/static/media/codeInLogo.b3685be8.png",
+    "static/media/deeplearning_ai_logo.png": "/portfolio/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/googleAssistant.jpg": "/portfolio/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/hrishi2.png": "/portfolio/static/media/hrishi2.66e2d22b.png",
+    "static/media/ino.png": "/portfolio/static/media/ino.ccf88661.png",
+    "static/media/intel_logo.jpg": "/portfolio/static/media/intel_logo.29152cf7.jpg",
+    "static/media/kcc.png": "/portfolio/static/media/kcc.4b445904.png",
+    "static/media/sal.png": "/portfolio/static/media/sal.62ac09c3.png",
+    "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.da0e7c80.png",
+    "static/media/utpal.png": "/portfolio/static/media/utpal.cd1aa171.png",
+    "static/media/vjt.png": "/portfolio/static/media/vjt.c54faf17.png",
+    "static/media/wrighter.jpg": "/portfolio/static/media/wrighter.02fdae43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bacc032.js",
+    "static/js/2.78d0bf94.chunk.js",
+    "static/css/main.52811682.chunk.css",
+    "static/js/main.bd7c098e.chunk.js"
+  ]
+}
