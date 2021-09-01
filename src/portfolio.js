@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     " 🚀 from Delhi, India. I'm a Web Developer with 3+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages.",
   resumeLink:
-    "https://drive.google.com/file/d/1IQge4pNhyj-RD2OOnEMrRPMODDUWeVDy/view?usp=sharing",
+    "#",
   mail: "mailto:utpalshah555@gmail.com",
 };
 
